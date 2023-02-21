@@ -30,12 +30,12 @@ a:hover {
 
 body { 
   font: normal .8em arial, sans-serif;
-  background: #C4E9E8 url(../images/back.png) repeat-x;
+  background: #C4E9E8 url(../Images/back.png) repeat-x;
   color: #555;
 }
 
 #main {
-  background: transparent url(../images/grass.png) repeat-x bottom;
+  background: transparent url(../Images/grass.png) repeat-x bottom;
   height: 1265px;
 }
 
@@ -53,7 +53,7 @@ body {
 }
 
 #header {
-  background-image:  url(../images/logo.png);
+  background-image:  url(../Images/logo.png);
   background-size: 100% 100%;
   position: relative;
   width: 95%;
